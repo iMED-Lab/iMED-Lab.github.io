@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Zhenjie Chai's Blog
-name: Zhenjie Chai's Blog
+title: iMED-Lab
+name: iMED-Lab
 description: 
   This is a website of iMED Lab about technology who wants to share some of the things he knows
   about Medical Image Analysis, Computer Vision, and so on.
